@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 🦖 *Crafting code in the digital wilderness* 🦖
+### *Crafting code in the digital wilderness*
 
 **`Surviving the tech stack, one commit at a time`**
 
@@ -27,19 +27,19 @@
 
 <div align="center">
 
-### ⚔️ **Main Weapons**
+### **Main Weapons**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-### 🛡️ **Armor & Tools**
+### **Armor & Tools**
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎯 **Special Skills**
+### **Special Skills**
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,16 +72,15 @@
 ```typescript
 const tarzan = {
     location: "The Digital Ark",
-    currentlyLearning: ["Advanced Vue Patterns", "Backend Architectures"],
-    tribe: ["Frontend Developers", "Game Dev Enthusiasts"],
-    challenge: "Building epic projects and surviving merge conflicts",
-    funFact: "I debug faster than a Rex can bite 🦖"
+    tribe: ["FullStack Developers", "yamete"],
+    challenge: "Building epic projects and surviving rebase conflicts",
+    funFact: "I debug faster with an AI than a Rex can bite 🦖"
 };
 ```
 
 ---
 
-## 🔥 **JOIN THE TRIBE**
+## **JOIN THE TRIBE**
 
 <div align="center">
 
@@ -99,6 +98,6 @@ const tarzan = {
 
 ![Snake animation](https://raw.githubusercontent.com/TarzanHR/TarzanHR/output/github-contribution-grid-snake-dark.svg)
 
-**⭐ N'hésite pas à explorer mes repos et à laisser une étoile si quelque chose te plaît ! ⭐**
+**N'hésite pas à explorer mes repos et à laisser une étoile si quelque chose te plaît !**
 
 </div>
