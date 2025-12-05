@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> ## Bonjour **stage** ?
-
 ```
 ████████╗ █████╗ ██████╗ ███████╗ █████╗ ███╗   ██╗    ██╗  ██╗██████╗ 
 ╚══██╔══╝██╔══██╗██╔══██╗╚══███╔╝██╔══██╗████╗  ██║    ██║  ██║██╔══██╗
@@ -20,6 +17,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TarzanHR&style=for-the-badge&color=blueviolet)](https://github.com/TarzanHR)
 
 </div>
+
+> [!IMPORTANT]
+> ## Bonjour **stage** ?
 
 ---
 
